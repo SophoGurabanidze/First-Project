@@ -1,0 +1,36 @@
+.container
+{
+    display: flex;
+    flex-direction: row;
+    
+
+    background-color: blueviolet;
+}
+
+.column
+{
+    width:50%;
+    
+}
+
+h1
+{
+    color: white;
+}
+
+
+p
+{
+    color: white;
+}
+
+a
+{
+    color: white;
+}
+
+img
+{
+    border: 5px solid blue;
+    border-radius: 7px;
+}
